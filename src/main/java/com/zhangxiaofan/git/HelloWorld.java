@@ -7,5 +7,7 @@ package com.zhangxiaofan.git;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        //开发人员添加了一句话
+        System.out.println("你好 世界");
     }
 }
